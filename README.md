@@ -1,7 +1,7 @@
 # Hi, I'm Ankit! 👋
 
-### Connect with Me
-[![Twitter Badge](https://img.shields.io/badge/-Twitter-1da1f2?labelColor=1da1f2&logo=twitter&logoColor=white&link=https://twitter.com/indiancamper)](https://twitter.com/indiancamper)
+### Let's Connect
+[![X Badge](https://img.shields.io/badge/-x-000000?labelColor=000000&logo=x&logoColor=white&link=https://x.com/indiancamper)](https://x.com/indiancamper)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ankitroy22/)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-purple?logo=instagram&logoColor=white&link=https://instagram.com/indiancamper)](https://www.instagram.com/indiancamper)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:ankitroy6321@gmail.com)
@@ -12,6 +12,19 @@
 - 🌱 I’m currently learning GenAI
 - 💬 Ask me about ML, DL, Python
 - 📫 How to reach me: ankitroy6321@gmail.com
+
+## Skills
+
+### Machine Learning and Deep Learning
+
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=Keras&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=OpenCV&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=Pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=NumPy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-013243?style=for-the-badge&logo=Matplotlib&logoColor=white)
+
 
 ## My GitHub Stats
 
