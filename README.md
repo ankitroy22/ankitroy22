@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning GenAI
 - 💬 Ask me about ML, DL, Python
-- 📫 How to reach me: ankitroy6321@gmail.com
+- 📫 How to reach me: ankitroy8521@gmail.com
 
 ## Skills
 
